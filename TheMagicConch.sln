@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMagicConch", "TheMagicConch\TheMagicConch.csproj", "{192A2836-50A5-4100-A92E-AE3290B49ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMagicConch.Tests", "TheMagicConch.Tests\TheMagicConch.Tests.csproj", "{FC8E6733-E8CD-44AB-A01C-CD7CD42D9725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192A2836-50A5-4100-A92E-AE3290B49ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192A2836-50A5-4100-A92E-AE3290B49ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192A2836-50A5-4100-A92E-AE3290B49ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192A2836-50A5-4100-A92E-AE3290B49ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8E6733-E8CD-44AB-A01C-CD7CD42D9725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8E6733-E8CD-44AB-A01C-CD7CD42D9725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8E6733-E8CD-44AB-A01C-CD7CD42D9725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8E6733-E8CD-44AB-A01C-CD7CD42D9725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C140DF1-B729-4175-B679-D462CE2C35E4}
+	EndGlobalSection
+EndGlobal
